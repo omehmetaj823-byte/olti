@@ -1,0 +1,6 @@
+{
+  "name": "Live Score Albania",
+  "description": "Platforma kryesore e rezultateve live të futbollit shqiptar dhe ndërkombëtar: Kategoria Superiore, Kombëtarja Kuqezi, Champions League dhe ligat evropiane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
